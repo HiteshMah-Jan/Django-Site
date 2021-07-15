@@ -3,6 +3,11 @@
 import os
 import sys
 
+const phoneNumber = "rgekjrng kjrgnjke";
+const salary ="serger";
+const stripeAcct = 12123;
+const username = "asfweferg.com";
+
 
 def main():
     """Run administrative tasks."""
